@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://kurobell.my.id"><img src="https://raw.githubusercontent.com/yobel47/mbti-project/public/favicon.ico" alt="Meow" width="200"></a>
+  <a href="http://kurobell.my.id"><img src="https://raw.githubusercontent.com/yobel47/mbti-project/main/public/favicon.ico" alt="Meow" width="200"></a>
   <br>
   MBTI Project
   <br>
