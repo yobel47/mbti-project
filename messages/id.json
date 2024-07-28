@@ -1,0 +1,30 @@
+{
+    "Index": {
+      "title": "Tes MBTI-mu",
+      "label": "Siapa kamu??",
+      "hello": "Halo",
+      "empty": "Jawab!!",
+      "modalTitle": "Tunggu dulu..",
+      "modalDesc": "Tes ini butuh waktu yang sangat lama, harap persiapkan diri anda terlebih dahulu.",
+      "modalBtn": "Saya siap!"
+    },
+    "Quiz" : {
+      "title" : "Sesuatu sedang terjadi..."
+    },
+    "Report": {
+      "hello": "Haloo ", 
+      "title": "Sesuatu yang magis terjadi...", 
+      "report": "ini laporanmu",
+      "you": "Kamu adalah ",
+      "disclaimer": "Tes MBTI bisa jadi seru, tapi hasilnya enggak selalu akurat. Kamu unik, jadi jangan paksa dirimu ke dalam satu kotak, ya!",
+      "detail": "Detail",
+      "description": "Katanya kamu tuh,",
+      "advice": "Mungkin ini bisa bantu kamu,",
+      "modalTitle": "Tunggu dulu..",
+      "modalDesc": "Apa kamu yakin ingin menghapusnya? Sesuatu yang hilang, takkan pernah kembali seperti sedia kala.",
+      "modalBtn": "Saya yakin!"
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "{locale, select, id {EN} en {ID} other {OO}}"
+      }
+}

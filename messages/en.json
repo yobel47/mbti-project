@@ -1,0 +1,30 @@
+{
+    "Index": {
+      "title": "Your MBTI test.",
+      "label": "Who are you?",
+      "hello": "Hello",
+      "empty": "You don't belong here.",
+      "modalTitle": "Attention!",
+      "modalDesc": "This may take a whole life to finish this test. So be prepared for the worst! Are you ready?",
+      "modalBtn": "I'm ready!"
+    },
+    "Quiz" : {
+      "title" : "Something is coming..."
+    },
+    "Report": {
+      "hello": "Hello ", 
+      "title": "Magical things happening...", 
+      "report": "here your report",
+      "you": "You are ",
+      "disclaimer": "Remember, MBTI tests are just for fun! They can give you some ideas, but everyone is unique and complex. Don't take your results too seriously!",
+      "detail": "Details",
+      "description": "From what I hear you are,",
+      "advice": "This may help you in a way,",
+      "modalTitle": "Attention!",
+      "modalDesc": "You sure want to delete your result? What is lost is lost, and gone for good.",
+      "modalBtn": "I'm sure!"
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "{locale, select, id {EN} en {ID} other {OO}}"
+      }
+}

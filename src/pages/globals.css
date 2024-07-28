@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fading-out {
+  opacity: 0;
+  animation: fadeOut 1s ease-in-out; /* Adjust duration and easing */
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.fading-in {
+  opacity: 1;
+  animation: fadeIn 1s ease-in-out; /* Adjust duration and easing */
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
