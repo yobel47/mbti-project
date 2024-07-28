@@ -41,3 +41,14 @@ $ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Ingredients
+
+Here are some ingredients to make it :
+
+- [Next JS](https://nextjs.org/)
+- [Next UI](https://nextui.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+
+
